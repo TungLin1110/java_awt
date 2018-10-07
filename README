@@ -1,0 +1,9 @@
+Just type 'make' and 'make run' in the terminal to makefile and run the programs.
+type'make delete' to delete general folder.
+
+
+題目要做出一個圖形介面畫出不同種圖形 ,顏色及是否填滿.
+drawpanel 即照著課本題目要求設定各種變數以及method以及建構初始panel.
+drawframe 則是圖形界面的設置,幾種顏色 圖形 位置 座標 下拉個數 界面大小等等 都在這邊處理
+My*.java 則是處各種圖形的作畫 位置回傳 以及分別處理是否填滿
+testdraw 執行界面
